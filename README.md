@@ -2,6 +2,6 @@
 
 Gagnagrunnur með helstu fræsitönnum og borbitum fyrir rafrásafræsun. 
 
-ATH: Virðist vera böggur í Import þar sem nöfnin á bitinum ruglast. 
+ATH: Virðist vera böggur í Import þar sem nöfnin á bitinum geta ruglast.
 
-Til að laga það, veljið verkfærið í listanum, strokið út einn staf og bætið honum aftur inn og vistið gagnagrunnin. 
+Ef það gerist, veljið verkfærið í listanum, strokið út einn staf og bætið honum aftur inn og vistið gagnagrunnin. 
