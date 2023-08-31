@@ -470,10 +470,10 @@
       "tools_drill_drill_overlap": 0.0,
       "tools_drill_last_drill": true,
       "tools_cutout_margin": 0.1,
-      "tools_cutout_gapsize": 4.0,
+      "tools_cutout_gapsize": 2.0,
       "tools_cutout_gaps_ff": "4",
       "tools_cutout_convexshape": false,
-      "tools_cutout_gap_type": "bt",
+      "tools_cutout_gap_type": "b",
       "tools_cutout_gap_depth": -1.67,
       "tools_cutout_mb_dia": 3.175,
       "tools_cutout_mb_spacing": 0.3
