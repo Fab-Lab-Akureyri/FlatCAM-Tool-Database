@@ -96,7 +96,7 @@
     }
   },
   "2": {
-    "name": "Milling 30deg V-bit",
+    "name": "Isolation 30deg V-bit",
     "tooldia": 0.2,
     "offset": "Path",
     "offset_value": 0.0,
@@ -104,7 +104,7 @@
     "tool_type": "C1",
     "data": {
       "plot": true,
-      "tool_target": 1,
+      "tool_target": 3,
       "tol_min": 0.0,
       "tol_max": 0.0,
       "cutz": -0.1,
@@ -250,7 +250,7 @@
       "tools_ncc_milling_type": "cl",
       "tools_ncc_overlap": 20.0,
       "tools_ncc_margin": 1.0,
-      "tools_ncc_method": 1,
+      "tools_ncc_method": 3,
       "tools_ncc_connect": true,
       "tools_ncc_contour": true,
       "tools_ncc_offset_choice": false,
@@ -288,18 +288,18 @@
     }
   },
   "4": {
-    "name": "Milling 0.4mm 1/64",
+    "name": "Isolation 0.4mm 1/64",
     "tooldia": 0.4,
     "offset": "Path",
     "offset_value": 0.0,
-    "type": "Rough",
+    "type": "Iso",
     "tool_type": "C2",
     "data": {
       "plot": true,
-      "tool_target": 1,
+      "tool_target": 3,
       "tol_min": 0.0,
       "tol_max": 0.0,
-      "cutz": -0.1,
+      "cutz": -0.105,
       "multidepth": false,
       "depthperpass": 0.8,
       "vtipdia": 0.2,
@@ -357,7 +357,7 @@
       "tools_paint_connect": true,
       "tools_paint_contour": true,
       "tools_iso_passes": 2,
-      "tools_iso_overlap": 15.0,
+      "tools_iso_overlap": 10.0,
       "tools_iso_milling_type": "cl",
       "tools_iso_follow": false,
       "tools_iso_isotype": "full",
