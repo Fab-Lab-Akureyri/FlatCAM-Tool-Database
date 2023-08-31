@@ -305,7 +305,7 @@
       "vtipdia": 0.2,
       "vtipangle": 30.0,
       "travelz": 2.0,
-      "feedrate": 80.0,
+      "feedrate": 60.0,
       "feedrate_z": 60.0,
       "feedrate_rapid": 1500.0,
       "spindlespeed": 11000.0,
