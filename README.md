@@ -1,7 +1,7 @@
 # FlatCAM Tool Database
 
-Gagnagrunnur með helstu fræsitönnum og borbitum fyrir rafrásafræsun. 
+Gagnagrunnur með helstu fræsitönnum og borbitum fyrir rafrásafræsun.
 
-ATH: Virðist vera böggur í Import þar sem nöfnin á bitinum geta ruglast.
+*ATH: Virðist vera böggur í Import þar sem nöfnin á bitunum geta ruglast.*
 
-Ef það gerist, veljið verkfærið í listanum, strokið út einn staf og bætið honum aftur inn og vistið gagnagrunnin. 
+*Ef það gerist, veljið verkfærið í listanum, strokið út einn staf og bætið honum aftur inn og vistið gagnagrunnin.*
