@@ -1057,7 +1057,7 @@
   },
   "12": {
     "name": "Coutout 1.600mm (.063\")",
-    "tooldia": 1.6,
+    "tooldia": 1.587,
     "offset": "Path",
     "offset_value": 0.0,
     "type": "Finish",
@@ -1147,7 +1147,7 @@
       "tools_cutout_convexshape": false,
       "tools_cutout_gap_type": "b",
       "tools_cutout_gap_depth": -1.58,
-      "tools_cutout_mb_dia": 1.5,
+      "tools_cutout_mb_dia": 1.587,
       "tools_cutout_mb_spacing": 0.3
     }
   }
